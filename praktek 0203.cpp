@@ -12,4 +12,6 @@ using namespace std;
 		
 		cout<<beratTon<<endl;
 		
+		double jumlah=1/BeratTon;
+		cout<<jumlah;
 	}
